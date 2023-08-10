@@ -1,0 +1,11 @@
+When an error occurs in a program, the program typically prints something
+called a stack trace, i.e., the list of method calls that resulted in the error.
+For example, a stack race might look like this:
+
+Exception in thread "main"...
+    at Program.main(Program.java:15)
+
+The type of error is stated at the beginning of the list, and the following line tells
+us where the error occurred. The line "at Program.main(Program.java:15)" says that
+the error occurred at line number 15 in the Program.java.file
+

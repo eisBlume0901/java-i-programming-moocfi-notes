@@ -1,0 +1,8 @@
+Test-drive software development consists of five steps that are repeated
+until the functionality of the program is complete
+
+1. Write a test.
+2. Run the tests and check if the tests pass.
+3. Write the functionality that meets the test's requirements.
+4. Perform the tests
+5. Repair the internal structure of the program

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MOOCFI Testing.iml" filepath="$PROJECT_DIR$/.idea/MOOCFI Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PART 4/PART 4.iml" filepath="$PROJECT_DIR$/PART 4/PART 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PART 5/PART 5.iml" filepath="$PROJECT_DIR$/PART 5/PART 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PART 6/PART 6.iml" filepath="$PROJECT_DIR$/PART 6/PART 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part7/Part7.iml" filepath="$PROJECT_DIR$/Part7/Part7.iml" />
+    </modules>
+  </component>
+</project>
